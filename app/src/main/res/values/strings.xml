@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppGeometryCalculator</string>
+
+    <string-array name="pilihbangundatar">
+        <item>Persegi</item>
+        <item>Lingkaran</item>
+        <item>Segitiga</item>
+    </string-array>
+
+</resources>
